@@ -55,17 +55,6 @@ This project analyzes over 7,600 movies released between 1980 and 2020 to uncove
 
 ---
 
-## Project Structure
-```
-movie-correlation-analysis/
-│
-├── Movies_FullProject.ipynb      # Full Python analysis notebook
-├── movies.csv                    # Raw dataset
-└── README.md
-```
-
----
-
 ## How to Run
 1. Clone this repository
 2. Open `Movies_FullProject.ipynb` in Jupyter Notebook
