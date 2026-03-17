@@ -81,4 +81,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## Author
 **Divya Idupulapati**
 - Email: idupulapatidivya07@gmail.com
-- [LinkedIn](#) | [Portfolio](#) | [GitHub](#)
